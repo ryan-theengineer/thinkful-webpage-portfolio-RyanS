@@ -63,11 +63,11 @@ h3{
 /* These 16 lines change the color of the links when in use */
 
 a:link{
-    color: black;
+    color: #412A41;
 }
 
 a:visited{
-    color: #442d41
+    color: #462B46
 }
 
 a:hover{
